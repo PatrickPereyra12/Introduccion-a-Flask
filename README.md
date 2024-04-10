@@ -1,9 +1,7 @@
 Flasky
 ======
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
-
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+Este repositorio contiene lo aprendido en clase, tanto el capitulo 1 de Instalacion como el capitulo 2 de Estructura de una Aplicacion Basica
 
 For Readers of the First Edition of the Book
 --------------------------------------------
